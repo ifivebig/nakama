@@ -6,6 +6,7 @@ The format is based on [keep a changelog](http://keepachangelog.com) and this pr
 ## [Unreleased]
 ### Changed
 - Do not use absolute path for `tini` executable in default container entrypoint.
+- Update to version 5.0 of the Facebook Graph API for Facebook authentication and friends import.
 
 ### Fixed
 - Correctly read pagination cursor in notification listings.
